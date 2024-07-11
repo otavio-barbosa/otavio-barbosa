@@ -2,9 +2,12 @@
 
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio-barbosa&show_icons=true&theme=radical)
+<div>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavio-barbosa&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=otavio-barbosa&theme=radical&hide_border=false)](https://git.io/streak-stats)
+</div>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-barbosa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
